@@ -1,0 +1,15 @@
+D:\_KhanhVy\_BootCap_Net\_Code_folders\_BaiTap\BT_Buoi04\bt_buoi04\bin\Debug\net10.0\bt_buoi04.exe
+D:\_KhanhVy\_BootCap_Net\_Code_folders\_BaiTap\BT_Buoi04\bt_buoi04\bin\Debug\net10.0\bt_buoi04.deps.json
+D:\_KhanhVy\_BootCap_Net\_Code_folders\_BaiTap\BT_Buoi04\bt_buoi04\bin\Debug\net10.0\bt_buoi04.runtimeconfig.json
+D:\_KhanhVy\_BootCap_Net\_Code_folders\_BaiTap\BT_Buoi04\bt_buoi04\bin\Debug\net10.0\bt_buoi04.dll
+D:\_KhanhVy\_BootCap_Net\_Code_folders\_BaiTap\BT_Buoi04\bt_buoi04\bin\Debug\net10.0\bt_buoi04.pdb
+D:\_KhanhVy\_BootCap_Net\_Code_folders\_BaiTap\BT_Buoi04\bt_buoi04\obj\Debug\net10.0\bt_buoi04.GeneratedMSBuildEditorConfig.editorconfig
+D:\_KhanhVy\_BootCap_Net\_Code_folders\_BaiTap\BT_Buoi04\bt_buoi04\obj\Debug\net10.0\bt_buoi04.AssemblyInfoInputs.cache
+D:\_KhanhVy\_BootCap_Net\_Code_folders\_BaiTap\BT_Buoi04\bt_buoi04\obj\Debug\net10.0\bt_buoi04.AssemblyInfo.cs
+D:\_KhanhVy\_BootCap_Net\_Code_folders\_BaiTap\BT_Buoi04\bt_buoi04\obj\Debug\net10.0\bt_buoi04.csproj.CoreCompileInputs.cache
+D:\_KhanhVy\_BootCap_Net\_Code_folders\_BaiTap\BT_Buoi04\bt_buoi04\obj\Debug\net10.0\bt_buoi04.sourcelink.json
+D:\_KhanhVy\_BootCap_Net\_Code_folders\_BaiTap\BT_Buoi04\bt_buoi04\obj\Debug\net10.0\bt_buoi04.dll
+D:\_KhanhVy\_BootCap_Net\_Code_folders\_BaiTap\BT_Buoi04\bt_buoi04\obj\Debug\net10.0\refint\bt_buoi04.dll
+D:\_KhanhVy\_BootCap_Net\_Code_folders\_BaiTap\BT_Buoi04\bt_buoi04\obj\Debug\net10.0\bt_buoi04.pdb
+D:\_KhanhVy\_BootCap_Net\_Code_folders\_BaiTap\BT_Buoi04\bt_buoi04\obj\Debug\net10.0\bt_buoi04.genruntimeconfig.cache
+D:\_KhanhVy\_BootCap_Net\_Code_folders\_BaiTap\BT_Buoi04\bt_buoi04\obj\Debug\net10.0\ref\bt_buoi04.dll
