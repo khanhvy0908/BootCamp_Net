@@ -1,0 +1,23 @@
+[
+  {
+    "$type": "DienTu, bt_buoi13",
+    "PhiBaoHanh": 1000000.0,
+    "MaSanPham": "DT1",
+    "TenSanPham": "Laptop",
+    "GiaGoc": 25000000.0
+  },
+  {
+    "$type": "ThucPham, bt_buoi13",
+    "PhiVanChuyen": 50000.0,
+    "MaSanPham": "TP1",
+    "TenSanPham": "Beef Steak",
+    "GiaGoc": 150000.0
+  },
+  {
+    "$type": "ThoiTrang, bt_buoi13",
+    "PhanTramGiam": 20.0,
+    "MaSanPham": "TT1",
+    "TenSanPham": "Jean",
+    "GiaGoc": 1000000.0
+  }
+]
