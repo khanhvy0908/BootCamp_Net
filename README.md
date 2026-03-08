@@ -23,6 +23,13 @@ Each folder represents exercises completed in a specific session.
 ### 🔹 BT_Buoi05  
 **Working with collection types (arrays, dictionaries) and basic algorithm problems**
 
+### 🔹 BT_Buoi13  
+**Object-Oriented Programming in C# – inheritance, polymorphism, abstract classes**
+
+- Product management system  
+- Add / delete products  
+- Calculate expected revenue
+
 
 ---
 
